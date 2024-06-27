@@ -1,0 +1,10 @@
+gradio
+google-auth-oauthlib
+google-api-python-client
+pandas
+searchconsole
+python-dotenv
+cohere
+scikit-learn
+beautifulsoup4
+python-dotenv
